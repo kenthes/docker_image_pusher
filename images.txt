@@ -11,7 +11,6 @@ dreamacro/clash
 haishanh/yacd
 lscr.io/linuxserver/transmission
 figro/flood-ui
-emby/embyserver
 plexinc/pms-docker
 jellyfin/jellyfin
 hotio/jellyseerr
@@ -20,7 +19,7 @@ mpepping/cyberchef
 jellyfin/jellyfin-vue
 linuxserver/plex
 tinymediamanager/tinymediamanager
-
+linuxserver/emby
 
 
 
