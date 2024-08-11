@@ -18,7 +18,8 @@ hotio/jellyseerr
 mzz2017/v2raya
 mpepping/cyberchef
 jellyfin/jellyfin-vue
-
+linuxserver/plex
+tinymediamanager/tinymediamanager
 
 
 
