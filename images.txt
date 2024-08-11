@@ -10,6 +10,13 @@ careywong/subweb
 dreamacro/clash
 haishanh/yacd
 lscr.io/linuxserver/transmission
+figro/flood-ui
+emby/embyserver
+plexinc/pms-docker
+jellyfin/jellyfin
+hotio/jellyseerr
+mzz2017/v2raya
+mpepping/cyberchef
 
 
 #支持指定架构
