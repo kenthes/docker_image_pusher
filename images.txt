@@ -21,7 +21,7 @@ tinymediamanager/tinymediamanager
 linuxserver/emby
 linuxserver/qbittorrent
 
-
+ 
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
