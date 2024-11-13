@@ -19,7 +19,7 @@ mpepping/cyberchef
 linuxserver/plex
 tinymediamanager/tinymediamanager
 linuxserver/emby
-
+linuxserver/qbittorrent
 
 
 
